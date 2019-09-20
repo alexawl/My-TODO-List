@@ -49,7 +49,7 @@ export class Todolist extends React.Component {
 								<li key={item.id}>
 									{item.todo}
 									<span
-										className="fa fa-times"
+										className="times fa fa-times"
 										onClick={e =>
 											this.handleClick(e, item.id)
 										}
