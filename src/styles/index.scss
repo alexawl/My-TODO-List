@@ -44,14 +44,18 @@ input{
   border-bottom: 1px solid #adadad;
   font-family: 'Open Sans Condensed', sans-serif
 }
-.lista > p {
+ul {
   width: 100%;
-  padding: 12px 20px;
   box-sizing: border-box;
   font-size: 20px;
   margin: 0px;
   font-family: 'Open Sans Condensed', sans-serif;
-  border-bottom: 1px solid #adadad;
+  list-style:none;
+  padding: 0px;
+}
+li {
+    width: 100%;
+     border-bottom: 1px solid #adadad;
 }
 .footer{
   width: 100%;

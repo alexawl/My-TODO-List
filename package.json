@@ -59,6 +59,7 @@
 		"react": "^16.8.6",
 		"react-dom": "^16.8.6",
 		"react-polyfills": "0.0.1",
-		"shortid": "^2.2.15"
+		"shortid": "^2.2.15",
+		"uid": "0.0.2"
 	}
 }

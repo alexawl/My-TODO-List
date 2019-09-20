@@ -1,5 +1,5 @@
 import React from "react";
-import shortid from "shortid";
+import uid from "uid";
 
 //include images into your bundle
 
