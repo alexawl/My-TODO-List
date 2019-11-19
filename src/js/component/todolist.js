@@ -40,8 +40,8 @@ export class Todolist extends React.Component {
 	render() {
 		return (
 			<div className="maincontainer">
-				<div className="tittle">todos</div>
-				<div className="lista">
+				<div className="tittle">TO DO LIST</div>
+				<div className="listA">
 					<TodoForm addToDo={this.addToDo} />
 					<ul>
 						{this.state.list.map(item => {
